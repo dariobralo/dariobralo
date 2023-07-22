@@ -1,3 +1,5 @@
+<img href="https://github.com/dariobralo/recursos/blob/main/banners/dise%C3%B1o1.png" >
+
 # Hola, mi nombre es Dario Bralo 👋
 
 Estudiante de Informática y Programación. Fanático de la tecnología.
