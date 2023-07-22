@@ -2,10 +2,10 @@
 
 # Hola! Soy Dario Bralo
 
-#### Trabajo en el desarrollo de aplicaciones web con el lenguaje Java y conexión a bases de datos relacionales.
+### Trabajo en el desarrollo de aplicaciones web con el lenguaje Java y conexión a bases de datos relacionales.
 <br>
 
-<h2 align="left">Tecnologías que uso</h2>
+## Tecnologías que uso
 <p>
 <img src="https://github.com/dariobralo/recursos/blob/main/icons/icons8-html5-96.png" alt="html5" width="73">
 <img src="https://github.com/dariobralo/recursos/blob/main/icons/icons8-css3-96.png" alt="css3" width="73">
