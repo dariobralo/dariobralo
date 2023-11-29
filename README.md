@@ -2,7 +2,7 @@
 
 # Hola! Soy Dario Bralo
 
-### Trabajo en el desarrollo de aplicaciones web con el lenguaje Java y conexión a bases de datos relacionales.
+### Estudiante del desarrollo de aplicaciones web con el lenguaje Java y su conexión a bases de datos relacionales.
 <br>
 
 ## Tecnologías que uso
