@@ -21,7 +21,7 @@
 
 <h2 align="left">Contacto</h2>
 <p>
-  <a href="https://www.linkedin.com/in/dario-bralo/" onclick='window.open("https://www.linkedin.com/in/dario-bralo/");return false;'>
+  <a href="https://www.linkedin.com/in/dario-bralo/" target="_blank" onclick='window.open("https://www.linkedin.com/in/dario-bralo/");return false;'>
     <img src="https://github.com/dariobralo/recursos/blob/main/icons/icons8-linkedin-96.png" 
     width="50" alt="LinkedIn">
   </a>
