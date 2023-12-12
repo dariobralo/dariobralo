@@ -1,8 +1,8 @@
 <p><img src="https://github.com/dariobralo/recursos/blob/main/banners/bannerLinkedin.png"></p>
 
-# Hola! Soy Dario Bralo
+# Hola! Mi nombre es Darío,
 
-### Desarrollador Backend con Java en formación para el desarrollo tanto de aplicaciónes monolíticas, como microservicios.
+### Soy desarrollador Backend con Java en formación, para aplicaciónes monolíticas y como microservicios.
 <br>
 
 ## Tecnologías que uso
