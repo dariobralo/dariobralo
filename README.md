@@ -2,7 +2,7 @@
 
 # Hola! Soy Dario Bralo
 
-### Estudiante del desarrollo de aplicaciones web con el lenguaje Java y su conexión a bases de datos relacionales.
+### Desarrollador Backend con Java en formación para el desarrollo tanto de aplicaciónes monolíticas, como microservicios.
 <br>
 
 ## Tecnologías que uso
